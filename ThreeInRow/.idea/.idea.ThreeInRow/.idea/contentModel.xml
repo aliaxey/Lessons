@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\DrCreeper\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\DrCreeper\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ThreeInRow.-1180817928.00" t="ExcludeRecursive" />
+    <e p="E:\Кабинет\Unity\Lessons\ThreeInRow" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BallsUpdater.cs" t="Include" />
+          <e p="BallType.cs" t="Include" />
+          <e p="Bootstrapper.cs" t="Include" />
+          <e p="Cell.cs" t="Include" />
+          <e p="Constants.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="Corutinier.cs" t="Include" />
+            <e p="IBallsUpdater.cs" t="Include" />
+            <e p="ICorutinier.cs" t="Include" />
+            <e p="IMeshFiller.cs" t="Include" />
+            <e p="IMeshManager.cs" t="Include" />
+            <e p="IObjectCreator.cs" t="Include" />
+            <e p="IObjectPublisher.cs" t="Include" />
+            <e p="IUpdatable.cs" t="Include" />
+            <e p="IUpdateManager.cs" t="Include" />
+          </e>
+          <e p="MeshFiller.cs" t="Include" />
+          <e p="MeshManager.cs" t="Include" />
+          <e p="ObjectCreator.cs" t="Include" />
+          <e p="ObjectPublisher.cs" t="Include" />
+          <e p="ObjectStorage.cs" t="Include" />
+          <e p="UpdateManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="ThreeInRow.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
