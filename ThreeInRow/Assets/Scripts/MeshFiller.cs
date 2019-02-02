@@ -47,7 +47,7 @@ public class MeshFiller : IMeshFiller {
     
     IEnumerator AddBall()
     {
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(Constants.SPAM_DELAY);
         
         _meshManager.AddBall(GetRandomBall(),col);
         col++;
